@@ -1,0 +1,9 @@
+data:
+    path: "../data/PRSA_data_2010.1.1-2014.12.31.csv"
+
+experiment_name: "test"
+
+train:
+    model: "random-forest"
+    hyperparameters:
+        seed: 421
